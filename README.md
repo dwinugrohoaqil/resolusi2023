@@ -1,2 +1,2 @@
 # resolusi2023
-repo buat belajar pengenalan GIT
+repository untuk buat belajar pengenalan GIT
